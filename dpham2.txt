@@ -1,3 +1,5 @@
 I am 6'0.
 My major is Psychology.
 My major is Computer Science
+
+git push
